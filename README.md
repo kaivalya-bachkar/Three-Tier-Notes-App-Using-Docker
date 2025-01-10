@@ -23,11 +23,6 @@ The application is containerized using **Docker** and orchestrated with **Docker
 - Environment variable support for sensitive configurations.
 - Auto-scaling capabilities for high availability.
 
-## Prerequisites
-- **Docker** (version 20.10 or above)
-- **Docker Compose** (version 1.29 or above)
-- Git (optional, for cloning the repository)
-
 ## Getting Started
 
 ### 1. Build and Run the Application
